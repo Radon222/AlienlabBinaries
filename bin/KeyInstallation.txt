@@ -1,0 +1,4 @@
+In Powershell, run:
+sn -i AlienLabKey.pfx VS_KEY_01234567ABCDEF01
+
+This is just a demo, please change your key store name.
