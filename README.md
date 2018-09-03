@@ -1,2 +1,2 @@
-# Alienlab Binaries
-Binaries built in Alienlab
+# Alienlab Libraries
+Libraries built in Alienlab
